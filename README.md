@@ -1,9 +1,9 @@
-# Weather Dashboard
+# 🌦️ Weather Dashboard
 A simple and interactive weather dashboard application built with Django and JavaScript. The app allows users to view real-time weather data based on their city or current location, utilizing the OpenWeatherMap API.
 
 ---
 
-## Features
+## ✨ Features
 Current Location Weather: Automatically detects and displays the weather based on the user's current location.
 City Search: Allows users to search and view the weather of any city worldwide.
 5-Day Weather Forecast (Optional): Display a 5-day weather forecast for the searched city (if applicable).
@@ -12,7 +12,7 @@ Django Backend: The application is powered by Django to serve the front-end and 
 
 ---
 
-## Technologies Used
+## 🛠️ Technologies Used
 Django: A Python web framework to build the back-end and serve static files.
 HTML: For creating the structure of the web page.
 CSS: For styling the dashboard and making it responsive.
@@ -21,12 +21,12 @@ OpenWeatherMap API: Provides weather data such as temperature, humidity, wind sp
 
 ---
 
-## API Used
+## 🔑 API Used
 OpenWeatherMap API: Provides real-time weather data and forecasts.
 
 ---
 
-## How to Run Locally
+## ⚙️ How to Run Locally
 Clone the repository:
 
 
@@ -46,7 +46,7 @@ Open the browser and go to http://127.0.0.1:8000 to view the application.
 
 ---
 
-## Setup API Key
+## 🔑 Setup API Key
 To use the weather API, you'll need to replace the placeholder API key in the JavaScript file with your own OpenWeatherMap API key. Here's how:
 
 Go to OpenWeatherMap and sign up for an API key.
@@ -59,10 +59,10 @@ const apiKey = 'YOUR_API_KEY';
 
 ---
 
-## Contribution
+## 🤝 Contribution
 Feel free to fork this repository, create a pull request, or contribute to the project with new features or improvements.
 
 ---
 
-## License
+## 📜 License
 This project is open-source and available under the MIT License.
