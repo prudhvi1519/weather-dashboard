@@ -27,18 +27,17 @@ A simple and interactive weather dashboard application built with Django and Jav
 
 ## ⚙️ How to Run Locally
 
-- **Clone the repository:**
-  git clone https://github.com/prudhvi1519/weather-dashboard.git
+**Clone the repository:**
+- git clone https://github.com/prudhvi1519/weather-dashboard.git
   - Navigate to the project directory:
 
-  cd weather-dashboard
+- cd weather-dashboard
   - Install the required dependencies:
 
-
-  pip install -r requirements.txt
+- pip install -r requirements.txt
   - Run the Django development server:
 
-  python manage.py runserver
+- python manage.py runserver
   - Open the browser and go to http://127.0.0.1:8000 to view the application.
 
 ---
