@@ -45,14 +45,9 @@ A simple and interactive weather dashboard application built with Django and Jav
 
 ## 🔑 Setup API Key
 To use the weather API, you'll need to replace the placeholder API key in the JavaScript file with your own OpenWeatherMap API key. Here's how:
-
-Go to OpenWeatherMap and sign up for an API key.
-
-In the static/js/script.js file, replace the following line with your API key:
-
-javascript
-
-const apiKey = 'YOUR_API_KEY';
+  - Go to OpenWeatherMap and sign up for an API key.
+  - In the static/js/script.js file, replace the following line with your API key:
+  - const apiKey = 'YOUR_API_KEY';
 
 ---
 
