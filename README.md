@@ -27,7 +27,7 @@ A simple and interactive weather dashboard application built with Django and Jav
 
 ## ⚙️ How to Run Locally
 
-- Clone the repository:
+- **Clone the repository:**
 - git clone https://github.com/prudhvi1519/weather-dashboard.git
   - Navigate to the project directory:
 
