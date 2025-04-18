@@ -31,16 +31,15 @@ A simple and interactive weather dashboard application built with Django and Jav
 - git clone https://github.com/prudhvi1519/weather-dashboard.git
   - Navigate to the project directory:
 
-
 - cd weather-dashboard
-Install the required dependencies:
+  - Install the required dependencies:
 
 
 - pip install -r requirements.txt
-Run the Django development server:
+  - Run the Django development server:
 
 - python manage.py runserver
-Open the browser and go to http://127.0.0.1:8000 to view the application.
+  - Open the browser and go to http://127.0.0.1:8000 to view the application.
 
 ---
 
