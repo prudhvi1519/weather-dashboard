@@ -4,11 +4,11 @@ A simple and interactive weather dashboard application built with Django and Jav
 ---
 
 ## ✨ Features
-Current Location Weather: Automatically detects and displays the weather based on the user's current location.
-City Search: Allows users to search and view the weather of any city worldwide.
-5-Day Weather Forecast (Optional): Display a 5-day weather forecast for the searched city (if applicable).
-Weather Icons: Displays weather icons based on the current weather conditions.
-Django Backend: The application is powered by Django to serve the front-end and handle any back-end logic.
+- Current Location Weather: Automatically detects and displays the weather based on the user's current location.
+- City Search: Allows users to search and view the weather of any city worldwide.
+- 5-Day Weather Forecast (Optional): Display a 5-day weather forecast for the searched city (if applicable).
+- Weather Icons: Displays weather icons based on the current weather conditions.
+- Django Backend: The application is powered by Django to serve the front-end and handle any back-end logic.
 
 ---
 
